@@ -15,7 +15,10 @@ class Game(object):
             #obsługa zdarzń
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
+                    pygame.quit()
                     sys.exit(0)
+            
+            pygame.display.update()
 
             self.tick()
             #rysowanie
