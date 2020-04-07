@@ -1,4 +1,4 @@
-#AI_Project
+# AI_Project
 - "gra_snake_prosta" - kod z tutuotiala
 - "podstawa_snake" - część kodu z tutuoriala, program uruchami się, ale od razu sie zamyka, nie wiem w czym jest błąd
 
